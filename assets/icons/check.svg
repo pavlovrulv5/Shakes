@@ -1,0 +1,15 @@
+<svg width="15.000000" height="15.000000" id="check" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip187_2413">
+			<rect id="check (9) 1" width="5.526316" height="5.526316" transform="translate(4.734375 4.736816)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 20" cx="7.500000" cy="7.500000" r="7.500000" fill="#495CEE" fill-opacity="1.000000"/>
+	<rect id="check (9) 1" width="5.526316" height="5.526316" transform="translate(4.734375 4.736816)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip187_2413)">
+		<path id="Vector" d="M10.1328 5.64008C9.96094 5.46887 9.68359 5.46899 9.51172 5.64008L6.72266 8.42993L5.48438 7.19006C5.3125 7.0188 5.03516 7.0188 4.86328 7.19006C4.69141 7.36127 4.69141 7.63879 4.86328 7.81L6.41406 9.35986C6.5 9.44537 6.60938 9.48828 6.72266 9.48828C6.83594 9.48828 6.94531 9.4455 7.03125 9.35986L10.1328 6.26001C10.3047 6.08893 10.3047 5.81128 10.1328 5.64008Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
